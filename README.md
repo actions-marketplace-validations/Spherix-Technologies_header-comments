@@ -2,10 +2,10 @@
 
 GitHub Action to add header comments to all your files
 
-[![Build CI](https://github.com/koj-co/header-comments/workflows/Build%20CI/badge.svg)](https://github.com/koj-co/header-comments/actions?query=workflow%3A%22Build+CI%22)
-[![Test CI](https://github.com/koj-co/header-comments/workflows/Test%20CI/badge.svg)](https://github.com/koj-co/header-comments/actions?query=workflow%3A%22Test+CI%22)
-[![Release CI](https://github.com/koj-co/header-comments/workflows/Release%20CI/badge.svg)](https://github.com/koj-co/header-comments/actions?query=workflow%3A%22Release+CI%22)
-[![Node CI](https://github.com/koj-co/header-comments/workflows/Node%20CI/badge.svg)](https://github.com/koj-co/header-comments/actions?query=workflow%3A%22Node+CI%22)
+[![Build CI](https://github.com/Spherix-Technologies/header-comments/workflows/Build%20CI/badge.svg)](https://github.com/koj-co/header-comments/actions?query=workflow%3A%22Build+CI%22)
+[![Test CI](https://github.com/Spherix-Technologies/header-comments/workflows/Test%20CI/badge.svg)](https://github.com/koj-co/header-comments/actions?query=workflow%3A%22Test+CI%22)
+[![Release CI](https://github.com/Spherix-Technologies/header-comments/workflows/Release%20CI/badge.svg)](https://github.com/koj-co/header-comments/actions?query=workflow%3A%22Release+CI%22)
+[![Node CI](https://github.com/Spherix-Technologies/header-comments/workflows/Node%20CI/badge.svg)](https://github.com/koj-co/header-comments/actions?query=workflow%3A%22Node+CI%22)
 
 ## ⭐ How it works
 
@@ -42,14 +42,5 @@ Only files in this directory, for example `src`, will get headers.
 
 ## 📄 License
 
-- Code: [MIT](./LICENSE) © [Koj](https://koj.co)
+- Code: [MIT](./LICENSE)
 - "GitHub" is a trademark of GitHub, Inc.
-
-<p align="center">
-  <a href="https://koj.co">
-    <img width="44" alt="Koj" src="https://kojcdn.com/v1598284251/website-v2/koj-github-footer_m089ze.svg">
-  </a>
-</p>
-<p align="center">
-  <sub>An open source project by <a href="https://koj.co">Koj</a>. <br> <a href="https://koj.co">Furnish your home in style, for as low as CHF175/month →</a></sub>
-</p>
