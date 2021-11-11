@@ -1,6 +1,6 @@
-name: "Header Comments"
-description: "GitHub Actions starter for TypeScript with automated releases"
-author: "Koj <https://github.com/koj.co>"
+name: "Automated Header Comment"
+description: "Epic Auto-Header Action"
+author: "Spherix Tech <https://github.com/Spherix-Technologies>"
 inputs:
   directory:
     required: false
@@ -10,4 +10,4 @@ runs:
   main: "dist/index.js"
 branding:
   icon: "umbrella"
-  color: "purple"
+  color: "green"
