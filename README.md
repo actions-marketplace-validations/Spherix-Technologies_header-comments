@@ -4,10 +4,10 @@
 
 GitHub Action to add header comments to all your files
 
-[![Build CI](https://github.com/Spherix-Technologies/header-comments/workflows/Build%20CI/badge.svg)](https://github.com/koj-co/header-comments/actions?query=workflow%3A%22Build+CI%22)
-[![Test CI](https://github.com/Spherix-Technologies/header-comments/workflows/Test%20CI/badge.svg)](https://github.com/koj-co/header-comments/actions?query=workflow%3A%22Test+CI%22)
-[![Release CI](https://github.com/Spherix-Technologies/header-comments/workflows/Release%20CI/badge.svg)](https://github.com/koj-co/header-comments/actions?query=workflow%3A%22Release+CI%22)
-[![Node CI](https://github.com/Spherix-Technologies/header-comments/workflows/Node%20CI/badge.svg)](https://github.com/koj-co/header-comments/actions?query=workflow%3A%22Node+CI%22)
+[![Build CI](https://github.com/Spherix-Technologies/header-comments/workflows/Build%20CI/badge.svg)](https://github.com/Spherix-Technologies/header-comments/actions?query=workflow%3A%22Build+CI%22)
+[![Test CI](https://github.com/Spherix-Technologies/header-comments/workflows/Test%20CI/badge.svg)](https://github.com/Spherix-Technologies/header-comments/actions?query=workflow%3A%22Test+CI%22)
+[![Release CI](https://github.com/Spherix-Technologies/header-comments/workflows/Release%20CI/badge.svg)](https://github.com/Spherix-Technologies/header-comments/actions?query=workflow%3A%22Release+CI%22)
+[![Node CI](https://github.com/Spherix-Technologies/header-comments/workflows/Node%20CI/badge.svg)](https://github.com/Spherix-Technologies/header-comments/actions?query=workflow%3A%22Node+CI%22)
 
 ## ⭐ How it works
 
