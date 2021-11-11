@@ -1,5 +1,7 @@
 # 📑 Header Comments Action
 
+`Fork of https://github.com/pabio/header-comments`
+
 GitHub Action to add header comments to all your files
 
 [![Build CI](https://github.com/Spherix-Technologies/header-comments/workflows/Build%20CI/badge.svg)](https://github.com/koj-co/header-comments/actions?query=workflow%3A%22Build+CI%22)
